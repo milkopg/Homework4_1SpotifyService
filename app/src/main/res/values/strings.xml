@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Softuni Task4_1 Spotify Service</string>
+    <string name="download">Download</string>
+    <string name="explicit"><a href="http://somesite.com/">Explicit</a></string>
+    <string name="settings">Settings</string>
+    <string name="song_full_name">Song full name</string>
+</resources>
