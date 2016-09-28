@@ -26,7 +26,6 @@ public class MainActivity extends AppCompatActivity implements OnItemClickListen
   private ArrayList<SpotifyModel> mData;
   private ServiceConnection connection;
   private Intent spotifyServiceIntent;
-  private OnItemClickListener callback;
 
   public static final String SONG_NAME  = "song_name";
   public static final String ACTION = "action";

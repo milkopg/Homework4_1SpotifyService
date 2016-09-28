@@ -39,8 +39,6 @@ public class RecycleViewAdapter extends RecyclerView.Adapter<RecycleViewAdapter.
     private Button mButtonFastForward;
     private Button mButtonFastBackward;
 
-    private SeekBar seekBar;
-
     private int position;
 
     public void setItemPosition(int position)
